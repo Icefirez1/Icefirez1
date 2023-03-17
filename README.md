@@ -6,6 +6,8 @@
  
 - 🍞: Cs is my jam and I'm currently just doing random stuff :)
 
+- 📑: In my repos are mostly my stuff for my cs classes and projects here and there
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/al-pagar-597568224/)
 
 ---
