@@ -2,7 +2,7 @@
 
 
 ### About me!
-- 💻: I am a student double majoring in computer science and infromation science.
+- 💻: I am a student double majoring in computer science and information science.
  
 - 🍞: Cs is my jam and I'm currently just doing random stuff :)
 
