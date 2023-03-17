@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+
+
 <a href="https://github.com/1drturtle/1drturtle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icefirez1&theme=dracula&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icefirez1&theme=tokyonight&langs_count=3" />
 </a>
 
 
