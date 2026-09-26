@@ -13,9 +13,9 @@
 ---
 ### &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Icefirez1/Icefirez1">
+<!-- <a href="https://github.com/Icefirez1/Icefirez1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icefirez1&theme=tokyonight&langs_count=3&background=000000" />
-</a>
+</a> -->
 <a href="https://github.com/Icefirez1/Icefirez1">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Icefirez1&theme=tokyonight&background=000000" alt="Al's GitHub Stats" />
 </a>
